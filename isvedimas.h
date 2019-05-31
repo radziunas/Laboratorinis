@@ -5,6 +5,7 @@
 using namespace std;
 
 void ivedimas(vector <mokiniai> &mok);
+void failai (vector <mokiniai> &mok);
 
 
 
